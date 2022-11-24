@@ -3,6 +3,9 @@
   "version": "1.8.5",
   "description": "Public API Tools. Completely Unlimited Free APIs.",
   "main": "./index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "apı",
     "API",
