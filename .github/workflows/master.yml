@@ -2,8 +2,7 @@ name: Publish
 
 on:
   release:
-    types: [master]
-    branches: [ master ]
+    types: [published]
 
 jobs:
   build:
